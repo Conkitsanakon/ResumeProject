@@ -1,0 +1,54 @@
+.top-container{
+    background-color: #348ec3;
+    margin: 0;
+    position: relative;
+}
+
+
+.bottom-me {
+    
+    bottom: 300px;
+    left: 300px;
+}
+
+body {
+     font-family: 'Noto Sans Thai', sans-serif; 
+    margin: 0;
+    text-align: center;
+    background-color: #51b4ec;
+}
+hr {
+
+    border-style:solid;
+    width: 1000;
+    border-width: 5px;
+    border-color: cornflowerblue;
+    } 
+
+    img {
+        border-radius: 50px;
+        width: 300px;
+    }
+    table{
+        background-color: #51b4ec;
+    }
+    a{
+        text-align: left;
+    }
+    li {
+        text-align: left;
+    }
+    
+    tr{
+        border-color: black;
+    }
+    ol{
+        background-color: #51b4ec;
+    }
+    td{
+        text-align: left;
+    }
+    table{
+       text-align: center; 
+    }
+    
